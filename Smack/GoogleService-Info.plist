@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827982081067-9ek7thgaf11a3e78as16mgbmgkbmt08k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827982081067-9ek7thgaf11a3e78as16mgbmgkbmt08k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHP13M63GydQueKXs9z2zxXuTQd1RrhlM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827982081067</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Haider-sEnterprise.Smack</string>
+	<key>PROJECT_ID</key>
+	<string>datarecommender-f1246</string>
+	<key>STORAGE_BUCKET</key>
+	<string>datarecommender-f1246.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827982081067:ios:8e1502b3664070f4</string>
+	<key>DATABASE_URL</key>
+	<string>https://datarecommender-f1246.firebaseio.com</string>
+</dict>
+</plist>
